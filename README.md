@@ -32,7 +32,7 @@ Three time series (speed from 00:00-6:00, 11:00-16:00, and 21:00-24:00) are set 
 
 
 ### Some visualizations
-
+![alt text](validation_visualization.png "Title")
 
 ## Reflections
 The main advantages of our model are:
